@@ -206,6 +206,3 @@ This project is proprietary to The Design Theeta. All rights reserved.
 
 ---
 
-**The Design Theeta** - *You. We. Make It Happen.*
-```
-
